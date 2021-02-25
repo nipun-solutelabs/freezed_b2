@@ -3,7 +3,7 @@ description: >
   Code generation for immutable classes that has a simple syntax/API without
   compromising on the features.
 version: 0.13.0-nullsafety.2
-homepage: https://github.com/rrousselGit/freezed
+homepage: https://github.com/nipun-solutelabs/freezed_b2
 
 environment:
   sdk: ">=2.10.0-0.0.dev <3.0.0"
