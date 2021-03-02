@@ -6,7 +6,7 @@ version: 0.13.0-nullsafety.2
 homepage: https://github.com/nipun-solutelabs/freezed_b2
 
 environment:
-  sdk: ">=2.10.0-0.0.dev <3.0.0"
+  sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
   analyzer: 
@@ -14,7 +14,7 @@ dependencies:
   build_config:
   meta: 
   source_gen:
-  freezed_annotation:
+  freezed_annotation: 
 
 dev_dependencies:
   json_serializable: 
